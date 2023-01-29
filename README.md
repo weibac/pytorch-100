@@ -1,10 +1,10 @@
-# My README
+## My README
 
 On this repo, I'm solving Nicolas Rougier's 100 numpy exercises, but in pytorch, as per the recommendation on [Neel Nanda's guide to mechanistic interpretability prerequisites](https://www.neelnanda.io/mechanistic-interpretability/prereqs).
 I have removed some files I won't be using.
 
-# Original README by Nicolas Rougier
-## 100 numpy exercises
+## Original README by Nicolas Rougier
+### 100 numpy exercises
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
 
@@ -23,6 +23,6 @@ This work is licensed under the MIT license.
 [![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
 
 
-### Variants in Other Languages
+#### Variants in Other Languages
 
  - **Julia**: [100 Julia Exercises](https://github.com/RoyiAvital/Julia100Exercises).
